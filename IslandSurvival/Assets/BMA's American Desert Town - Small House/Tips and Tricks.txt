@@ -1,0 +1,7 @@
+Thanks for your purchase! Please find below some tips that might help you with your project.
+
+-The LOD values are Unity defaults. You should play around with them to find values that suit your needs.
+-When surrounding an area (e.g a lawn) with the fence model, you can scale it by -1 in one axis to increase variety. Similarly, pushing some fences down the ground is a good idea.
+
+Feel free to contact me with any questions or requests you might have at:
+bma_assets@outlook.com
